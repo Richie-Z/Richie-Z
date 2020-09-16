@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Richie-Z)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Richie-Z&repo=tessearctCOLAB)
