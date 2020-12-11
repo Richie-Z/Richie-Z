@@ -1,5 +1,5 @@
 # Hi there 👋
-Ikan hiu makan tomat welcome to my Github
+Hello, I'am Immanuel Richie and welcome to my Github
 
 <!--
 **Richie-Z/Richie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
