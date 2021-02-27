@@ -1,5 +1,5 @@
 # Hi there 👋
-Hello, I'am Immanuel Richie and welcome to my Github
+Hello, I'am
 
 <!--
 **Richie-Z/Richie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Richie-Z&show_icons=true&theme=gotham)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Z&theme=vue"> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Z&show_icons=true&theme=vue">
