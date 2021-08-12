@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com)
+I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/)
 
 Currently my project is
  - [Siperas](https://github.com/Richie-Z/siperas) - A Payment System for Tuition
