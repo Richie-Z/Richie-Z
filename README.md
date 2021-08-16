@@ -1,12 +1,13 @@
 # Hi there 👋
-I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/)
-
-Currently my project is
+I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
+ 
+Currently my personal project is
  - [Siperas](https://github.com/Richie-Z/siperas) - A Payment System for Tuition
  - [Masch](https://github.com/Richie-Z/masch) - A Cinema Scheduler System
  - [Velkings](https://github.com/Richie-Z/velkings) - A Travel Orderings System
  - [Levote](https://github.com/Richie-Z/levote) - A Voting Maker
  - [Skement](https://github.com/Richie-Z/skement) - A Task Management system
+ - [FaQMaker](https://github.com/Richie-Z/skement) - A Frequent Asked Question Maker
 
 
 <!--
