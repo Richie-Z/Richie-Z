@@ -15,7 +15,7 @@ Currently my personal project is
 - [CLI Racing](https://github.com/Richie-Z/cli-racing)  - Command Line Interface Racing (this is kinda jesting project,lmao)
 - [RenamerNH](https://github.com/Richie-Z/renamer-nhent) - Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°) ) 
 
-You can Reach me at : No.
+You can Reach me at : No, I need some time to finishing my current project :) .. so No.
 
 <!--
 **Richie-Z/Richie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
