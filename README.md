@@ -1,3 +1,4 @@
+
 # Hi there 👋
 I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
  
@@ -7,8 +8,14 @@ Currently my personal project is
  - [Velkings](https://github.com/Richie-Z/velkings) - A Travel Orderings System
  - [Levote](https://github.com/Richie-Z/levote) - A Voting Maker
  - [Skement](https://github.com/Richie-Z/skement) - A Task Management system
- - [FaQMaker](https://github.com/Richie-Z/skement) - A Frequent Asked Question Maker
+ - [FaQMaker](https://github.com/Richie-Z/faq-backend) - A Frequent Asked Question Maker
+- [E-Restaurant](https://github.com/Richie-Z/E-Restaurant) - My PKK Project (PKK is like a subject that learn about creative product and how to manage to sell it)
+- [Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) -  use Tesseract in Google Colab
+- [JQueder](https://github.com/Richie-Z/Jquder) - A Java Query Builder
+- [CLI Racing](https://github.com/Richie-Z/cli-racing)  - Command Line Interface Racing (this is kinda jesting project,lmao)
+- [RenamerNH](https://github.com/Richie-Z/renamer-nhent) - Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°) ) 
 
+You can Reach me at : No.
 
 <!--
 **Richie-Z/Richie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
