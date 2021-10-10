@@ -1,4 +1,3 @@
-
 # Hi there 👋
 I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
  
@@ -13,10 +12,15 @@ Currently my personal project is
 - [Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) -  use Tesseract in Google Colab
 - [JQueder](https://github.com/Richie-Z/Jquder) - A Java Query Builder
 - [CLI Racing](https://github.com/Richie-Z/cli-racing)  - Command Line Interface Racing (this is kinda jesting project,lmao)
+- [Data Siswa](https://github.com/Richie-Z/data-siswa) - A System Information about student build use Java
 - [RenamerNH](https://github.com/Richie-Z/renamer-nhent) - Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°) ) 
+- [DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java) - Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°) ) 
 
-You can Reach me at : No, I need some time to finishing my current project :) .. so No.
+<br/>
+You can Reach me at : No, I need some time to finishing my current project :) .. so No.<br/><br/><br/>
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Richie-Z&show_icons=true&theme=gotham)
 <!--
 **Richie-Z/Richie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
