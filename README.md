@@ -5,7 +5,7 @@
 
 I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
 
-#### 👨‍💻 Currently my personal project is:
+#### 👨‍💻 Currently my personal project is :
 
 |Project|Description  |
 |--|--|
@@ -21,6 +21,7 @@ I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and 
 |[Data Siswa](https://github.com/Richie-Z/data-siswa)| A System Information about student build use Java|
 |[RenamerNH](https://github.com/Richie-Z/renamer-nhent)|Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) |
 |[DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java)| Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | 
+|[TODO App](https://github.com/Richie-Z/todo-app)| A Simple Todo app build use Vue3+Tailwind  |
 
 
 #### 📫 How to reach me
