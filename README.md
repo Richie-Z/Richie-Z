@@ -5,7 +5,7 @@
 
 I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
 
-#### Currently my personal project is:
+#### 👨‍💻 Currently my personal project is:
 
 |Project|Description  |
 |--|--|
