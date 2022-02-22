@@ -9,11 +9,11 @@ I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and 
 
 |Project|Description  |
 |--|--|
-|[Siperas](https://github.com/Richie-Z/siperas) |A Payment System for Tuition|
-|[Masch](https://github.com/Richie-Z/masch)|A Cinema Scheduler System|
-|[Velkings](https://github.com/Richie-Z/velkings)|A Travel Orderings System|
-|[Levote](https://github.com/Richie-Z/levote)|A Voting Maker|
-|[FaQMaker](https://github.com/Richie-Z/faq-backend)|A Frequent Asked Question Maker|
+|[Siperas](https://github.com/Richie-Z?tab=repositories&q=siperas) |A Payment System for Tuition|
+|[Masch](https://github.com/Richie-Z?tab=repositories&q=masch)|A Cinema Scheduler System|
+|[Velkings](https://github.com/Richie-Z?tab=repositories&q=velkings)|A Travel Orderings System|
+|[Levote](https://github.com/Richie-Z?tab=repositories&q=levote)|A Voting Maker|
+|[FaQMaker](https://github.com/Richie-Z?tab=repositories&q=faq)|A Frequent Asked Question Maker|
 |[E-Restaurant](https://github.com/Richie-Z/E-Restaurant)|My PKK Project (PKK is like a subject that learn about creative product and how to manage to sell it)|
 |[Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) |use Tesseract in Google Colab|
 |[JQueder](https://github.com/Richie-Z/Jquder) |A Java Query Builder|
