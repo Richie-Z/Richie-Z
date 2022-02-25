@@ -16,12 +16,12 @@ I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and 
 |[Levote](https://github.com/Richie-Z?tab=repositories&q=levote)|A Voting Maker|Information system
 |[FaQMaker](https://github.com/Richie-Z?tab=repositories&q=faq)|A Frequent Asked Question Maker|Information system
 |[E-Restaurant](https://github.com/Richie-Z/E-Restaurant)|A Information system POS|Information system
-|[Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) |use Tesseract in Google Colab| Tools
-|[JQueder](https://github.com/Richie-Z/Jquder) |A Java Query Builder| Tools
+|[Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) |use Tesseract in Google Colab| Tool
+|[JQueder](https://github.com/Richie-Z/Jquder) |A Java Query Builder| Tool
 |[CLI Racing](https://github.com/Richie-Z/cli-racing)|Command Line Interface Racing (this is kinda jesting project,lmao)| Fun
 |[Data Siswa](https://github.com/Richie-Z/data-siswa)| A Information system about student build use Java|Information system
-|[RenamerNH](https://github.com/Richie-Z/renamer-nhent)|Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tools
-|[DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java)| Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tools
+|[RenamerNH](https://github.com/Richie-Z/renamer-nhent)|Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tool
+|[DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java)| Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tool
 |[TODO App](https://github.com/Richie-Z/todo-app)| A Simple Todo app  | Website
 
 
