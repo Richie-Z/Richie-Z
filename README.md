@@ -1,30 +1,31 @@
+
 # Hi there 👋, I'm Richie
 <p align="center">
-    <samp>A Full Stack developer, Freelancer and  Weeb.</samp>
+    <samp>A Full Stack developer, Freelancer and Weeb.</samp>
 </p>
 
 I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
 
 #### 👨‍💻 Currently my personal project is :
 
-|Project|Description  |
-|--|--|
-|[Siperas](https://github.com/Richie-Z?tab=repositories&q=siperas) |A Payment System for Tuition|
-|[Masch](https://github.com/Richie-Z?tab=repositories&q=masch)|A Cinema Scheduler System|
-|[Velkings](https://github.com/Richie-Z?tab=repositories&q=velkings)|A Travel Orderings System|
-|[Levote](https://github.com/Richie-Z?tab=repositories&q=levote)|A Voting Maker|
-|[FaQMaker](https://github.com/Richie-Z?tab=repositories&q=faq)|A Frequent Asked Question Maker|
-|[E-Restaurant](https://github.com/Richie-Z/E-Restaurant)|My PKK Project (PKK is like a subject that learn about creative product and how to manage to sell it)|
-|[Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) |use Tesseract in Google Colab|
-|[JQueder](https://github.com/Richie-Z/Jquder) |A Java Query Builder|
-|[CLI Racing](https://github.com/Richie-Z/cli-racing)|Command Line Interface Racing (this is kinda jesting project,lmao)|
-|[Data Siswa](https://github.com/Richie-Z/data-siswa)| A System Information about student build use Java|
-|[RenamerNH](https://github.com/Richie-Z/renamer-nhent)|Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) |
-|[DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java)| Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | 
-|[TODO App](https://github.com/Richie-Z/todo-app)| A Simple Todo app  |
+|Project|Description| Type | 
+|--|--|--|
+|[Siperas](https://github.com/Richie-Z?tab=repositories&q=siperas) |A Payment System for Tuition|Information system
+|[Masch](https://github.com/Richie-Z?tab=repositories&q=masch)|A Cinema Scheduler System|Information system
+|[Velkings](https://github.com/Richie-Z?tab=repositories&q=velkings)|A Travel Orderings System|Information system
+|[Levote](https://github.com/Richie-Z?tab=repositories&q=levote)|A Voting Maker|Information system
+|[FaQMaker](https://github.com/Richie-Z?tab=repositories&q=faq)|A Frequent Asked Question Maker|Information system
+|[E-Restaurant](https://github.com/Richie-Z/E-Restaurant)|A Information system POS|Information system
+|[Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) |use Tesseract in Google Colab| Tools
+|[JQueder](https://github.com/Richie-Z/Jquder) |A Java Query Builder| Tools
+|[CLI Racing](https://github.com/Richie-Z/cli-racing)|Command Line Interface Racing (this is kinda jesting project,lmao)| Fun
+|[Data Siswa](https://github.com/Richie-Z/data-siswa)| A Information system about student build use Java|Information system
+|[RenamerNH](https://github.com/Richie-Z/renamer-nhent)|Renamer for your fav doujin (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tools
+|[DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java)| Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tools
+|[TODO App](https://github.com/Richie-Z/todo-app)| A Simple Todo app  | Website
 
 
-#### 📫 How to reach me
+#### 📫 How to reach me :
 
  - Facebook : [Richie Zakaria](https://web.facebook.com/richie.zakaria.1/)
  - Email : [zakariarichie@yahoo.com](mailto:zakariarichie@yahoo.com)
