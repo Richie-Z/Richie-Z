@@ -1,10 +1,11 @@
 
+
 # Hi there 👋, I'm Richie
 <p align="center">
     <samp>A Full Stack developer, Freelancer and Weeb.</samp>
 </p>
 
-I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and currently fullstacking at [gis-desdm](https://gis-desdm.kalteng.tech/) and have collabed at Universitas Palangkaraya System Information Project.
+I'm Richie, a full stack developer who loved to create an information system.
 
 #### 👨‍💻 Currently my personal project is :
 
@@ -15,7 +16,7 @@ I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and 
 |[Velkings](https://github.com/Richie-Z?tab=repositories&q=velkings)|A Travel Orderings System|Information System
 |[Levote](https://github.com/Richie-Z?tab=repositories&q=levote)|A Voting Maker|Information System
 |[FaQMaker](https://github.com/Richie-Z?tab=repositories&q=faq)|A Frequent Asked Question Maker|Information System
-|[E-Restaurant](https://github.com/Richie-Z/E-Restaurant)|A Information system POS|Information System
+|[E-Restaurant](https://github.com/Richie-Z/E-Restaurant)|A Restaurant POS|Information System
 |[Tesseract Colab](https://github.com/Richie-Z/tessearctCOLAB) |use Tesseract in Google Colab| Tool
 |[JQueder](https://github.com/Richie-Z/Jquder) |A Java Query Builder| Tool
 |[CLI Racing](https://github.com/Richie-Z/cli-racing)|Command Line Interface Racing (this is kinda jesting project,lmao)| Fun
@@ -24,6 +25,7 @@ I'm Richie, a full stack developer at [cermat](https://cerdasmediatama.com) and 
 |[DownloaderNH](https://github.com/Richie-Z/DownloaderNH-Java)| Download Nhent*i using Java (Beware NSFW stuff ( ͡° ͜ʖ ͡°)) | Tool
 |[TODO App](https://github.com/Richie-Z/todo-app)| A Simple Todo app  | Website
 |[Pengaduan](https://github.com/Richie-Z?tab=repositories&q=pengaduan)| A Complaintment System  | Information System
+[Sewa Baju](https://github.com/Richie-Z/sewabaju)| A Rent Clothes POS  | Information System
 
 
 #### 📫 How to reach me :
