@@ -32,6 +32,7 @@ I'm Richie, a full stack developer who loved to create an information system.
 
  - Facebook : [Richie Zakaria](https://web.facebook.com/richie.zakaria.1/)
  - Email : [zakariarichie@yahoo.com](mailto:zakariarichie@yahoo.com)
+ - LinkedIn : [Richie Zakaria](https://www.linkedin.com/in/richie-zakaria/)
 
 <p align="center">
     <a href="https://github.com/richie-z">
