@@ -10,13 +10,12 @@ Hello there, I'm Richie Zakaria, a web developer extraordinaire and a 20s boy pr
 
 ![weeb](https://media.tenor.com/mJ2PwwRWPVUAAAAC/weeb-anime.gif)
 
-#### 👨‍💻 Currently my open source project is:
 
-# My Open Souce Project
+## 👨‍💻 Currently my open source project is:
 
 <details open>
   <summary>
-    <h3>Tools</h3>
+    <h5>Tools</h5>
   </summary>
   <table>
     <tr>
@@ -52,7 +51,7 @@ Hello there, I'm Richie Zakaria, a web developer extraordinaire and a 20s boy pr
 
 <details>
   <summary>
-    <h3>Information System</h3>
+    <h5>Information System</h5>
   </summary>
   <table>
     <tr>
@@ -99,7 +98,7 @@ Hello there, I'm Richie Zakaria, a web developer extraordinaire and a 20s boy pr
 
 <details>
   <summary>
-    <h3>Website?</h3>
+    <h5>Website?</h5>
   </summary>
   <table>
     <tr>
@@ -122,7 +121,7 @@ Hello there, I'm Richie Zakaria, a web developer extraordinaire and a 20s boy pr
 </details>
 
 
-#### 📫 How to reach me:
+## 📫 How to reach me:
  - Facebook: [Richie Zakaria](https://web.facebook.com/richie.zakaria.1/)
  - Email: [zakariarichie@yahoo.com](mailto:zakariarichie@yahoo.com)
  - LinkedIn: [Richie Zakaria](https://www.linkedin.com/in/richie-zakaria/)
