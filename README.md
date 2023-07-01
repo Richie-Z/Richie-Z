@@ -22,6 +22,10 @@ Hello there, I'm Richie Zakaria, a web developer extraordinaire and a 20s boy pr
       <th>Project</th>
       <th>Description</th>
     </tr>
+      <tr>
+      <td><a href="https://github.com/Richie-Z/express-babel-boilerplate">Expres Babel Boilerplate</a></td>
+      <td>A minimal boilerplate for express and babel</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Richie-Z/tessearctCOLAB">Tesseract Colab</a></td>
       <td>Use Tesseract in Google Colab</td>
