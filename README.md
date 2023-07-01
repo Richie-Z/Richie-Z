@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Richie
+# Hi there [👋](https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png), I'm Richie
 <p align="center">
     <samp>Productivity Polyglot Designer</samp>
 </p>
