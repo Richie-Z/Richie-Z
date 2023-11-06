@@ -131,12 +131,7 @@ Hello there, I'm Richie Zakaria, a web developer extraordinaire and a 20s boy pr
  - LinkedIn: [Richie Zakaria](https://www.linkedin.com/in/richie-zakaria/)
  - Linktree: [Richie-Z](https://richie-z.github.io/linktree/)
 
-<p align="center">
-    <a href="https://github.com/richie-z">
-        <img alt="Richie-Z stats" src="https://github-readme-stats.vercel.app/api?username=Richie-Z&count_private=true&show_icons=true&hide_title=true&include_all_commits=true">
-          <img alt="Richie-Z fav Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Z&show_icons=true&count_private=true">
-    </a>
-</p>
+
 
 <!--
 **Richie-Z/Richie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -149,4 +144,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+<p align="center">
+    <a href="https://github.com/richie-z">
+        <img alt="Richie-Z stats" src="https://github-readme-stats.vercel.app/api?username=Richie-Z&count_private=true&show_icons=true&hide_title=true&include_all_commits=true">
+          <img alt="Richie-Z fav Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Z&show_icons=true&count_private=true">
+    </a>
+</p>
 -->
